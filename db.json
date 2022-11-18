@@ -12,7 +12,7 @@
       "age": 49,
       "location": "Serbia",
       "language": "Tajik",
-      "like": "flase"
+      "like": flase
     },
     {
       "id": 2,
@@ -25,7 +25,7 @@
       "age": 35,
       "location": "Indonesia",
       "language": "Hungarian",
-      "like": "flase"
+      "like": flase
     },
     {
       "id": 3,
@@ -38,7 +38,7 @@
       "age": 34,
       "location": "China",
       "language": "Danish",
-      "like": "flase"
+      "like": flase
     },
     {
       "id": 4,
@@ -51,7 +51,7 @@
       "age": 50,
       "location": "Ecuador",
       "language": "Moldovan",
-      "like": "flase"
+      "like": flase
     },
     {
       "id": 5,
@@ -64,7 +64,7 @@
       "age": 19,
       "location": "Lithuania",
       "language": "Amharic",
-      "like": "flase"
+      "like": flase
     },
     {
       "id": 6,
@@ -77,7 +77,7 @@
       "age": 47,
       "location": "France",
       "language": "Dhivehi",
-      "like": "flase"
+      "like": flase
     },
     {
       "id": 7,
@@ -90,7 +90,7 @@
       "age": 43,
       "location": "China",
       "language": "Portuguese",
-      "like": "flase"
+      "like": flase
     },
     {
       "id": 8,
@@ -103,7 +103,7 @@
       "age": 37,
       "location": "New Caledonia",
       "language": "Guaraní",
-      "like": "flase"
+      "like": flase
     },
     {
       "id": 9,
@@ -116,7 +116,7 @@
       "age": 35,
       "location": "Afghanistan",
       "language": "Italian",
-      "like": "flase"
+      "like": flase
     },
     {
       "id": 10,
@@ -129,7 +129,7 @@
       "age": 20,
       "location": "Mongolia",
       "language": "Afrikaans",
-      "like": "flase"
+      "like": flase
     }
   ],
   "fav": [
@@ -144,7 +144,7 @@
       "age": 35,
       "location": "Afghanistan",
       "language": "Italian",
-      "like": "flase"
+      "like": flase
     }
   ]
 }
